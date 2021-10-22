@@ -1,0 +1,169 @@
+.div1{
+    font-family: Rufina-Regular;
+    font-size: 15;
+    color: #FF817E;
+}
+
+.div3{
+    margin-top: 35px;
+}
+
+.div4{
+    margin-top: 170.6px;
+}
+
+.div5{
+    font-family: Rufina-Regular;
+    font-size: 25px;
+    color: #FF817E;
+}
+
+.div6{
+    font-family: Rufina-Bold;
+    font-size: 70px;
+}
+
+.div7{
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.btn{
+    background-color: #FF817E;
+    border-radius: 0;
+    color: white;
+    margin-top: 35.6px;
+    padding: 16px 35px 15px 30px;
+}
+
+.div8{
+    margin-left: 40px;
+    height: 44px;
+    width: 44px;
+}
+
+.div9{
+    font-family: roboto;
+    font-size: 20px;
+    margin-top: 35.6px;
+    color: #888888;
+}
+
+.div10{
+    text-align: center;
+}
+
+.div11{
+    font-family: rufina-bold;
+    font-size: 42px;
+}
+
+.div12{
+    font-size: 14px;
+    font-family: roboto;
+}
+
+.padding{
+    padding: 15px;
+    font-size: 14px;
+    font-family: roboto;
+    font-weight: bolder;
+    word-spacing: 100px;
+}
+
+.btnnn{
+    border-radius: 40px;
+    background-color: #FF817E;
+    color: white;
+    padding: 8px 30px;
+    margin: 50px 0px;
+}
+
+.div13{
+    border: 1px solid white;
+    margin-top: 30px;
+}
+
+.div14{
+    margin:70px auto;
+}
+
+.div15{
+    font-family: Rufina-Bold;
+    font-size: 42px;
+}
+
+.div16{
+    padding: 20px;
+}
+
+.btnnns{
+    border-radius: 30px;
+}
+
+.btns{
+    background-color: #30383B;
+    border-radius: 30px;
+}
+
+.div17{
+    box-shadow: 5px 10px 18px 0 grey;
+}
+
+.div18{
+    padding: 142px;
+    margin: 60px 0;
+    background-color: #FFF9F8;
+    text-align: center;
+}
+
+.div20{
+    margin-top: -50px;
+}
+
+.div21{
+    padding: 0;
+}
+
+.div22{
+    margin: auto;
+}
+
+.common{
+    margin-top: 20px;
+}   
+
+.merge{
+    margin-top: 60px;
+}
+
+.floatt{
+    float: right;
+    margin-right: 50px;
+    margin-top: 1rem;
+}
+
+.div23{
+    padding: 90px;
+    background-color: #FFF9F8;
+}
+
+.center{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    width: 50%;
+    padding-top: 50px;
+}
+
+.div24{
+    padding: 0;
+}
+
+.div25{
+    margin: 20px;
+}
+
+.div26{
+    background-color: #FFF9F8;    
+}
